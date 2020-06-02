@@ -1,0 +1,64 @@
+{
+    "status_code" : 200,
+    "message" : "success",
+    "data" : {
+        "header" : {
+            "title" : "This is Header",
+            "subtitle" : "Lorem ipsum dolor sit amet"
+        },
+        "content" : [
+            {
+                "id": 1,
+                "title": "Title Image 1",
+                "content": "Lorem Ipsum Dolor Amit",
+                "type": "image",
+                "image": "https://i.imgur.com/BnW0w2T.jpg",
+                "media": []
+            },
+            {
+                "id": 2,
+                "title": "Title Multiple Image 1",
+                "content": "Lorem Ipsum Dolor Amit",
+                "type": "multiple",
+                "image": null, 
+                "media": [
+                    "https://i.imgur.com/xulMos6.jpg",
+                    "https://i.imgur.com/ZEP2qhd.jpg",
+                    "https://i.imgur.com/XmTOqh6.jpg"
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Title Image 2",
+                "content": "Lorem Ipsum Dolor Amit",
+                "type": "image",
+                "image": "https://images2.imgbox.com/59/62/SXRaJdoU_o.jpg",
+                "media": []
+            },
+            {
+                "id": 4,
+                "title": "Title Multiple Image 2",
+                "content": "Lorem Ipsum Dolor Amit",
+                "type": "multiple",
+                "image": null,
+                "media": [
+                    "https://images2.imgbox.com/06/69/H9TjaTuG_o.jpg",
+                    "https://images2.imgbox.com/3f/95/MYtzNTqw_o.jpg"
+                ]
+            },
+            {
+                "id": 5,
+                "title": "Title Multiple Image 3",
+                "content": "Lorem Ipsum Dolor Amit",
+                "type": "multiple",
+                "image": null,
+                "media": [
+                    "https://i.imgur.com/tjU7fiU.jpg",
+                    "https://i.imgur.com/j8L5Piq.jpg",
+                    "https://i.imgur.com/YiitGrr.jpg",
+                    "https://i.imgur.com/2QN9lqb.jpg"
+                ]
+            }
+        ]
+    }
+}

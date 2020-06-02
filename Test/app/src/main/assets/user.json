@@ -1,0 +1,12 @@
+{
+    "status_code" : 200,
+    "message" : "success",
+    "data" : {
+        "id" : 1,
+        "username" : "olivia",
+        "fullname" : "Olivia Jensen",
+        "email" : "olivia@gmail.com",
+        "phone" : "+628130305872",
+        "avatar" : "https://i.imgur.com/UBJuJHp.jpg"
+    }
+}
